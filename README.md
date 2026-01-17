@@ -84,8 +84,6 @@ curl http://localhost:3000/produtos/categoria/fantasia
 
 ## Estrutura
 
-## Estrutura
-
 ```text
 src/
 ├─ controllers/
