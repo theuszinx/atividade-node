@@ -84,14 +84,19 @@ curl http://localhost:3000/produtos/categoria/fantasia
 
 ## Estrutura
 
+## Estrutura
+
+```text
 src/
-  ├─ controllers/
-  │  └─ livrosController.js
-  ├─ routes/
-  │  └─ livrosRoutes.js
-  ├─ database/
-  │  ├─ db.js
-  │  ├─ schema.sql
-  │  └─ seed.sql
-  └─ app.js
+├─ controllers/
+│  └─ livrosController.js
+├─ routes/
+│  └─ livrosRoutes.js
+├─ database/
+│  ├─ db.js
+│  ├─ schema.sql
+│  └─ seed.sql
+└─ app.js
+```
+
 
